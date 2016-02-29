@@ -1,0 +1,6 @@
+kill SparkContext
+kill SPARK_HOME
+needs java SPI
+kill shading
+ needs CL isolation
+ must support diff hadoop and vers in same running jvm

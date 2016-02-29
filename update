@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+git fetch upstream && git pull upstream master && ./push && ./build
