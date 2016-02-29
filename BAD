@@ -4,3 +4,5 @@ needs java SPI
 kill shading
  needs CL isolation
  must support diff hadoop and vers in same running jvm
+need jackson rdd serdes
+guice? :3
